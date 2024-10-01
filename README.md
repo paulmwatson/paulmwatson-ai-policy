@@ -1,6 +1,6 @@
 # The Paul M. Watson AI Policy
 
-Oisin concocted this policy when they set up [Chunky Labs](http://chunkylabs.com), their consultancy firm. The point was to let their clients-to-be know that when they were contracting them, that they would be doing the work themselves rather than phoning it in via a mediocrity machine.
+Oisín Hurley concocted this policy when they set up [Chunky Labs](http://chunkylabs.com), their consultancy firm. The point was to let their clients-to-be know that when they were contracting them, that they would be doing the work themselves rather than phoning it in via a mediocrity machine.
 
 I think this is important. As a technology and organizational consultant, I need to grow my own brain and thoughts, and I can't do that if don't exercise learning and thinking. Using an LLM or "AI" in the marketing sense of the word is a total cop-out on that personal requirement.
 
